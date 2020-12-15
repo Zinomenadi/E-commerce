@@ -49,6 +49,9 @@ public function setnomv($nomv){
 public function setprenomv($prenomv){
 	$this->prenomv=$prenomv;
 }
+public function lol(){
+	return echo "github";
+}
 
 
 
